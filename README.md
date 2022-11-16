@@ -20,11 +20,15 @@ This is done part of NLP case study
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ### Steps followed
-  - Step 1: Data Understanding, Cleaning, manipulation
-  - Step 2: Univariate Analysis
-  - Step 3: Segmented Univariate Analysis
-  - Step 4: Bivariate/Multivariate Analysis
-  - Step 5: Results
+  - Step 1: Workspace setup
+  - Step 2: Data preprocessing
+  - Step 3: Concept identification
+  - Step 4: Define feature for CRF
+  - Step 5: Getting the features
+  - Step 6: Define input and target variables
+  - Step 7: Build the CRF Model
+  - Step 8: Evaluation
+  - Step 9: Identifying Diseases and Treatments using Custom NER
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
